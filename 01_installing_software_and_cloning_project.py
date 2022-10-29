@@ -16,7 +16,7 @@ subprocess.call(["sudo", "npm", "--version"])
 subprocess.call(["sudo", "nginx", "--version"])
 
 # Clone your project from Github
-subprocess.call(["sudo", "mkdir", "apps"])
+subprocess.call(["sudo", "mkdir", "/root/apps"])
 subprocess.call("sudo " + "git " + "clone " + "https://github.com/CREPIC21/businessregistry.git", cwd="/root/apps/", shell=True)
 
 ### IMPORTANT ###
