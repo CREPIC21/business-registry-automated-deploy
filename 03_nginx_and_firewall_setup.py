@@ -20,3 +20,5 @@ subprocess.call(["sudo", "nginx", "-t"])
 
 # Restart NGINX
 subprocess.call(["sudo", "service", "nginx", "restart"])
+
+# check if the app is working, it should be available on internet under server IP, no need to specity the port 5000, it would just hang if port number is used

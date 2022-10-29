@@ -16,3 +16,5 @@ subprocess.call("sudo " + "pm2 " + "start " + "server.js", cwd="/root/apps/busin
 subprocess.call(["sudo", "pm2", "startup", "ubuntu"])
 subprocess.call("sudo " + "pm2 " + "startup " + "ubuntu", cwd="/root/apps/businessregistry/", shell=True)
 
+# check if the app is working, it should be available on internet under server IP and port 5000
+

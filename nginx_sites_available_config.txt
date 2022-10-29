@@ -19,7 +19,7 @@
 # Default server configuration
 #
 server {
-    server_name businessregistry.xyz www.businessregistry.xyz;
+    server_name wordpresslinux.xyz www.wordpresslinux.xyz;
 
     location / {
         proxy_pass http://localhost:5000; #whatever port your app runs on
