@@ -2,3 +2,5 @@
 
 2. Create config.env and add all environment variables to config.env
 - mv config/config.env.env config/config.env
+
+3. run 01_main.py
