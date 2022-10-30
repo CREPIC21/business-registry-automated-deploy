@@ -2,7 +2,3 @@
 
 2. Create config.env and add all environment variables to config.env
 - mv config/config.env.env config/config.env
-
-3. run 02_npm_pm2_setup.py
-
-4. run 03_nginx_and_firewall_setup.py

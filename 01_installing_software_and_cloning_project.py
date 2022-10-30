@@ -2,7 +2,6 @@
 
 """subprocess library allows us to execute and manage subprocesses directly from Python"""
 import subprocess
-import time
 
 # Installing required software for our hosting platform
 subprocess.call(["sudo", "apt", "update"])
