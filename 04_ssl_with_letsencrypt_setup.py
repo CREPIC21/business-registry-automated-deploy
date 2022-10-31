@@ -4,4 +4,4 @@
 import subprocess
 
 subprocess.call(["sudo", "apt-get", "install", "python3-certbot-nginx"])
-subprocess.call(["sudo", "certbot", "--nginx", "-d", "wordpresslinux.xyz", "-d", "www.wordpresslinux.xyz"])
+subprocess.call(["sudo", "certbot", "--nginx", "-d", "businessregistry.xyz", "-d", "www.businessregistry.xyz"])
