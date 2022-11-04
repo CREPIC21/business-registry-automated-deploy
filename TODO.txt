@@ -1,0 +1,5 @@
+- figure out how to create database backup with mongoose dump
+-- https://www.youtube.com/watch?v=Pp3QH2Pifbo
+-- https://www.digitalocean.com/community/tutorials/install-mongodb-linux
+-- https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-ubuntu/
+-- https://www.mongodb.com/docs/database-tools/installation/installation-linux/
