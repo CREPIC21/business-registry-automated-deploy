@@ -3,3 +3,6 @@
 -- https://www.digitalocean.com/community/tutorials/install-mongodb-linux
 -- https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-ubuntu/
 -- https://www.mongodb.com/docs/database-tools/installation/installation-linux/
+
+- when running main.py change it to accept arguments
+-- accept domain name and dynamically add it to nginx config file as well to required scripts as arguments
